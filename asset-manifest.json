@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sim-sim-ddang-kong/static/css/main.de164a30.css",
+    "main.js": "/sim-sim-ddang-kong/static/js/main.da97fc3d.js",
+    "static/js/787.6d6342af.chunk.js": "/sim-sim-ddang-kong/static/js/787.6d6342af.chunk.js",
+    "index.html": "/sim-sim-ddang-kong/index.html",
+    "main.de164a30.css.map": "/sim-sim-ddang-kong/static/css/main.de164a30.css.map",
+    "main.da97fc3d.js.map": "/sim-sim-ddang-kong/static/js/main.da97fc3d.js.map",
+    "787.6d6342af.chunk.js.map": "/sim-sim-ddang-kong/static/js/787.6d6342af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de164a30.css",
+    "static/js/main.da97fc3d.js"
+  ]
+}
