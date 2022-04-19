@@ -20,7 +20,7 @@ const SingleCard = ({ card, onChoice, flipped, disabled }: Props) => {
           <img src={card.src} alt="card front" />
         </div>
         <div className="back">
-          <img src="/img/cover.png" onClick={handleClick} alt="card back" />
+          <img src="img/cover.png" onClick={handleClick} alt="card back" />
         </div>
       </div>
     </div>
